@@ -1,4 +1,3 @@
-<div align = "center">
 <h1>🤌 Hi, I'm Bayu</h1>
 <p>I want to be a fullstack developer, but for now I want to be a frontend developer hehehehe.</p>
 💫 About Me:<br>
@@ -29,5 +28,3 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Wissasono11&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 [![](https://visitcount.itsvg.in/api?id=Wissasono11&icon=3&color=0)](https://visitcount.itsvg.in)
-
-</div>
