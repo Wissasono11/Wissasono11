@@ -1,5 +1,3 @@
-# Hi, I'm Bayu
-
 # 💫 About Me:
 🔭 I am currently studying at UIN Sunan Kalijaga<br>👯 I want to collaborate in Dicoding<br>🌱 I'm studying Frontend Developer<br>💬 Ask me about: eating with left or right hand<br>⚡ Interesting facts about me: I'm left-handed
 
