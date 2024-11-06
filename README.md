@@ -1,6 +1,6 @@
-<div align="center">
+<div align = "center">
 <h1>🤌 Hi, I'm Bayu</h1>
-<h2>I want to be a fullstack developer, but for now I want to be a frontend developer.</h2>
+<p>I want to be a fullstack developer, but for now I want to be a frontend developer hehehehe.</p>
 💫 About Me:
 🔭 I am currently studying at UIN Sunan Kalijaga<br>👯 I want to collaborate in Dicoding<br>🌱 I'm studying Frontend Developer<br>💬 Ask me about: eating with left or right hand<br>⚡ Interesting facts about me: I'm left-handed
 
