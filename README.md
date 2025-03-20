@@ -3,9 +3,6 @@
 💫 About Me:<br>
 🔭 I am currently studying at UIN Sunan Kalijaga<br>🌱 I'm studying Frontend Developer<br>💬 Ask me about: when you eat which hand that you use, with left or right hand?<br>⚡ Interesting facts: I'm left-handed
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wjcbayy) 
-
 ## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
