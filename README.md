@@ -1,7 +1,7 @@
 <!-- Vintage Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e6c5f,100:cbb49a&height=200&section=header&text=Hi%20I'm%20Bayu!&fontSize=40&fontColor=fff8f0&animation=fadeIn&font=Playball" />
 
-<p align="center"><i>“Crafting lines of code with a classic touch.”</i></p>
+<p align="center">🌟 Aspiring Fullstack Developer | 🎨 Currently Frontend Enthusiast</p>
 
 ---
 
