@@ -7,7 +7,7 @@
 
 ## 🕰️ Profile Views
 <p align="center">
-  ![](https://komarev.com/ghpvc/?username=Wissasono11&abbreviated=true)
+  https://komarev.com/ghpvc/?username=Wissasono11&abbreviated=true
 </p>
 
 ---
