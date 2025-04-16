@@ -2,11 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e6c5f,100:cbb49a&height=200&section=header&text=Hi%20I'm%20Bayu!&fontSize=40&fontColor=fff8f0&animation=fadeIn&font=Playball" />
 
 <p align="center">🌟 Aspiring Fullstack Developer | 🎨 Currently Frontend Enthusiast</p>
-
----
-
-## 🕰️ Profile Views
-<!-- Profile Views Counter -->
 <p align="center">
   <a href="https://visitcount.itsvg.in">
     <img src="https://camo.githubusercontent.com/4a2c35f42fbcf539614cd736336a4003e25de908ff6f16efd0b64b9343f70abe/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d61726261746861626475727261686d616e266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="Profile View Counter"/>
