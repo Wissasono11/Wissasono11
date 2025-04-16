@@ -1,5 +1,6 @@
 <!-- Profil Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:9f44d3&height=200&section=header&text=Hi%20I'm%20Bayu!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:9f44d3&height=200&section=header&text=Hi%20I'm%20Bayu!&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlign=70&fontAlignY=40&font=Playball" />
+
 
 <p align="center">🌟 Aspiring Fullstack Developer | 🎨 Currently Frontend Enthusiast</p>
 
