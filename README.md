@@ -8,7 +8,7 @@
 ## 🕰️ Profile Views
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Wissasono11&icon=3&color=6e4b3c" alt="Profile View Counter"/>
+    <img src="https://camo.githubusercontent.com/e5b698aada17aa8576f91ad16a7a659881d4e40d14034720c329e9c3b5fc3a8c/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d74686f7275323133266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="Profile View Counter"/>
   </a>
 </p>
 
