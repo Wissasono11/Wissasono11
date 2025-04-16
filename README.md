@@ -7,7 +7,7 @@
 
 ## 🕰️ Profile Views
 <p align="center">
-  [https://komarev.com/ghpvc/?username=Wissasono11&abbreviated=true](https://komarev.com/ghpvc/?username=Wissasono11&abbreviated=true)
+https://camo.githubusercontent.com/9209443378a44acdedc6a7f0cffbd604ef0268aee7c8219a416f420920d5981c/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d50726f66696c652b7669657773266d6573736167653d31322e334b26636f6c6f723d303037656336
 </p>
 
 ---
