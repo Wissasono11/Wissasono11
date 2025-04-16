@@ -2,6 +2,7 @@
 <p>I want to be a fullstack developer, but for now I want to be a frontend developer hehehehe.</p>
 💫 About Me:<br>
 🔭 I am currently studying at UIN Sunan Kalijaga<br>🌱 I'm studying Frontend Developer<br>💬 Ask me about: when you eat which hand that you use, with left or right hand?<br>⚡ Interesting facts: I'm left-handed
+![](https://komarev.com/ghpvc/?username=Wissasono11)
 
 ## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
