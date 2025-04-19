@@ -23,13 +23,13 @@
 
 <div align="center">
 <img src="https://img.shields.io/badge/HTML5-b76e79?style=flat&logo=html5&logoColor=fff5e1" />
-<img src="https://img.shields.io/badge/CSS3-a47148?style=flat&logo=css3&logoColor=fff5e1" />
 <img src="https://img.shields.io/badge/Python-6c584c?style=flat&logo=python&logoColor=e4cba7" />
+<img src="https://img.shields.io/badge/Bootstrap-7c5e57?style=flat&logo=bootstrap&logoColor=e4cba7" />
+<img src="https://img.shields.io/badge/CSS3-a47148?style=flat&logo=css3&logoColor=fff5e1" />
 <img src="https://img.shields.io/badge/PHP-99775c?style=flat&logo=php&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/C++-5e5c6c?style=flat&logo=c%2B%2B&logoColor=efe8d8" />
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-5e5c6c?style=flat&logo=c%2B%2B&logoColor=efe8d8" />
-<img src="https://img.shields.io/badge/Bootstrap-7c5e57?style=flat&logo=bootstrap&logoColor=f5ebe0" />
 </div>
 
 ---
