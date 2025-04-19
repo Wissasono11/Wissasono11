@@ -1,5 +1,5 @@
 <!-- Vintage Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:131842,25:E68369,50:ECCEAE,100:FBF6E2&height=200&section=header&text=Hi%20I'm%20Bayu!&fontSize=40&fontColor=E68369&animation=fadeIn&font=Playball" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:131842,25:E68369,50:ECCEAE,100:FBF6E2&height=200&section=header&text=Hi%20I'm%20Bayu!&fontSize=40&fontColor=FBF6E2&animation=fadeIn&font=Playball" />
 
 <p align="center">🌟 Aspiring Fullstack Developer | 🎨 Currently Frontend Enthusiast</p>
 <p align="center">
