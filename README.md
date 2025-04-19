@@ -28,8 +28,8 @@
 <img src="https://img.shields.io/badge/CSS3-E68369?style=flat&logo=css3&logoColor=FBF6E2" />
 <img src="https://img.shields.io/badge/PHP-131842?style=flat&logo=php&logoColor=FBF6E2" />
 <img src="https://img.shields.io/badge/C++-ECCEAE?style=flat&logo=c%2B%2B&logoColor=131842" />
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/TailwindCSS-FBF6E2?style=flat&logo=tailwindcss&logoColor=131842" />
+<img src="https://img.shields.io/badge/Figma-E68369?style=flat&logo=figma&logoColor=FBF6E2" />
 </div>
 
 ---
