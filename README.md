@@ -26,10 +26,10 @@
 <img src="https://img.shields.io/badge/Python-131842?style=flat&logo=python&logoColor=FBF6E2" />
 <img src="https://img.shields.io/badge/Bootstrap-ECCEAE?style=flat&logo=bootstrap&logoColor=131842" />
 <img src="https://img.shields.io/badge/CSS3-FBF6E2?style=flat&logo=css3&logoColor=131842" />
-<img src="https://img.shields.io/badge/PHP-131842?style=flat&logo=php&logoColor=FBF6E2" />
-<img src="https://img.shields.io/badge/C++-ECCEAE?style=flat&logo=c%2B%2B&logoColor=131842" />
-<img src="https://img.shields.io/badge/TailwindCSS-FBF6E2?style=flat&logo=tailwindcss&logoColor=131842" />
-<img src="https://img.shields.io/badge/Figma-E68369?style=flat&logo=figma&logoColor=FBF6E2" />
+<img src="https://img.shields.io/badge/PHP-E68369?style=flat&logo=php&logoColor=FBF6E2" />
+<img src="https://img.shields.io/badge/C++-131842?style=flat&logo=c%2B%2B&logoColor=FBF6E2" />
+<img src="https://img.shields.io/badge/TailwindCSS-ECCEAE?style=flat&logo=tailwindcss&logoColor=131842" />
+<img src="https://img.shields.io/badge/Figma-FBF6E2?style=flat&logo=figma&logoColor=131842" />
 </div>
 
 ---
