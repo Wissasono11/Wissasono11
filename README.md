@@ -22,12 +22,12 @@
 ## 🧰 Tech Stack
 
 <div align="center">
-<img src="https://img.shields.io/badge/HTML5-b76e79?style=flat&logo=html5&logoColor=fff5e1" />
-<img src="https://img.shields.io/badge/Python-6c584c?style=flat&logo=python&logoColor=e4cba7" />
-<img src="https://img.shields.io/badge/Bootstrap-7c5e57?style=flat&logo=bootstrap&logoColor=e4cba7" />
-<img src="https://img.shields.io/badge/CSS3-a47148?style=flat&logo=css3&logoColor=fff5e1" />
-<img src="https://img.shields.io/badge/PHP-99775c?style=flat&logo=php&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/C++-5e5c6c?style=flat&logo=c%2B%2B&logoColor=efe8d8" />
+<img src="https://img.shields.io/badge/HTML5-E68369?style=flat&logo=html5&logoColor=FBF6E2" />
+<img src="https://img.shields.io/badge/Python-131842?style=flat&logo=python&logoColor=FBF6E2" />
+<img src="https://img.shields.io/badge/Bootstrap-ECCEAE?style=flat&logo=bootstrap&logoColor=131842" />
+<img src="https://img.shields.io/badge/CSS3-E68369?style=flat&logo=css3&logoColor=FBF6E2" />
+<img src="https://img.shields.io/badge/PHP-131842?style=flat&logo=php&logoColor=FBF6E2" />
+<img src="https://img.shields.io/badge/C++-ECCEAE?style=flat&logo=c%2B%2B&logoColor=131842" />
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=ffffff" />
 <img src="https://img.shields.io/badge/Figma-000000?style=flat&logo=figma&logoColor=white" />
 </div>
@@ -44,4 +44,4 @@
 ---
 
 <!-- Vintage Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:cbb49a,100:8e6c5f&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:131842,25:E68369,50:ECCEAE,100:FBF6E2&height=120&section=footer"/>
