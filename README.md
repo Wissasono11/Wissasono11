@@ -12,10 +12,10 @@
 
 ## 💼 About Me
 
-- 🎓 Currently studying at **UIN Sunan Kalijaga**
-- 🛠️ Focused on learning **Frontend Development**
-- 🧐 Ask me: _"When you eat, which hand do you use — left or right?"_
-- ✋ Fun fact: **I'm left-handed**
+🔹🎓 Currently studying at **UIN Sunan Kalijaga**
+🔹🛠️ Focused on learning **Frontend Development**
+🔹🧐 Ask me: _"When you eat, which hand do you use — left or right?"_
+🔹✋ Fun fact: **I'm left-handed**
   
 ---
 
