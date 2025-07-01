@@ -37,22 +37,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wissasono11&layout=compact&hide_border=false&include_all_commits=true&count_private=true&title_color=E68369&text_color=ECCEAE&icon_color=ECCEAE&bg_color=131842" width="420px" alt="Bayu's Top Languages" />
 </p>
 
-
-## ✉️ Let's Connect!
-
-I'm always open to new ideas, collaborations, or just a chat about technology. Feel free to reach out!
-
-<p align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email">
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
-  </a>
-  <a href="https://twitter.com/your-twitter-handle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Profile">
-  </a>
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:131842,25:E68369,50:ECCEAE,100:FBF6E2&height=120&section=footer" alt="Footer Banner" />
 
