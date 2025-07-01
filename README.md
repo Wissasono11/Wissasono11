@@ -8,7 +8,7 @@
 <img src="https://komarev.com/ghpvc/?username=Wissasono11&label=Profile%20views&color=E68369&style=flat" alt="Profile View Counter"/>
 </a>
 </p>
-
+---
 💼 About Me
 🎓 Currently studying at UIN Sunan Kalijaga
 
@@ -17,7 +17,7 @@
 🧐 Ask me: "When you eat, which hand do you use — left or right?"
 
 ✋ Fun fact: I'm left-handed
-
+---
 🧰 Tech Stack
 <div align="center">
 <img src="https://img.shields.io/badge/-E68369?style=flat&logo=html5&logoColor=FBF6E2&label=" alt="HTML5" />
@@ -30,13 +30,13 @@
 <img src="https://img.shields.io/badge/-FBF6E2?style=flat&logo=figma&logoColor=131842&label=" alt="Figma" />
 <img src="https://img.shields.io/badge/-E68369?style=flat&logo=git&logoColor=FBF6E2&label=" alt="Git" />
 </div>
-
+---
 📈 GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Wissasono11&hide_border=false&include_all_commits=true&count_private=true&title_color=E68369&text_color=ECCEAE&icon_color=ECCEAE&bg_color=131842" width="420px" alt="Bayu's GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wissasono11&layout=compact&hide_border=false&include_all_commits=true&count_private=true&title_color=E68369&text_color=ECCEAE&icon_color=ECCEAE&bg_color=131842" width="420px" alt="Bayu's Top Languages" />
 </p>
-
+---
 ✉️ Let's Connect!
 I'm always open to new ideas, collaborations, or just a chat about technology. Feel free to reach out!
 
@@ -51,7 +51,7 @@ I'm always open to new ideas, collaborations, or just a chat about technology. F
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Profile">
 </a>
 </p>
-
+---
 <!-- Vintage Footer -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:131842,25:E68369,50:ECCEAE,100:FBF6E2&height=120&section=footer" alt="Footer Banner" />
