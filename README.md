@@ -8,16 +8,12 @@
   </a>
 </p>
 
----
 
 ## 💼 About Me
-
 🎓 Currently studying at **UIN Sunan Kalijaga**  
 🛠️ Focused on learning **Frontend Development**  
 🧐 Ask me: _"When you eat, which hand do you use — left or right?"_  
 ✋ Fun fact: I'm **left-handed**
-
----
 
 ## 🧰 Tech Stack
 
@@ -33,7 +29,6 @@
   <img src="https://img.shields.io/badge/-E68369?style=flat&logo=git&logoColor=FBF6E2&label=" alt="Git" />
 </div>
 
----
 
 ## 📈 GitHub Stats
 
@@ -42,7 +37,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wissasono11&layout=compact&hide_border=false&include_all_commits=true&count_private=true&title_color=E68369&text_color=ECCEAE&icon_color=ECCEAE&bg_color=131842" width="420px" alt="Bayu's Top Languages" />
 </p>
 
----
 
 ## ✉️ Let's Connect!
 
@@ -60,7 +54,5 @@ I'm always open to new ideas, collaborations, or just a chat about technology. F
   </a>
 </p>
 
----
-
-<!-- Vintage Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:131842,25:E68369,50:ECCEAE,100:FBF6E2&height=120&section=footer" alt="Footer Banner" />
+
