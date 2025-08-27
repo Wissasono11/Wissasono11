@@ -24,11 +24,11 @@
   <img src="https://img.shields.io/badge/-E68369?style=flat&logo=react&logoColor=FBF6E2&label=" alt="React" />
   <img src="https://img.shields.io/badge/-ECCEAE?style=flat&logo=php&logoColor=131842&label=" alt="PHP" />
   <img src="https://img.shields.io/badge/-FBF6E2?style=flat&logo=laravel&logoColor=131842&label=" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Filament-FFAD00?style=flat&logoColor=white" alt="Filament" />
   <img src="https://img.shields.io/badge/-E68369?style=flat&logo=bootstrap&logoColor=FBF6E2&label=" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/-ECCEAE?style=flat&logo=tailwindcss&logoColor=131842&label=" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/-FBF6E2?style=flat&logo=figma&logoColor=131842&label=" alt="Figma" />
   <img src="https://img.shields.io/badge/-E68369?style=flat&logo=git&logoColor=FBF6E2&label=" alt="Git" />
-  <img src="https://img.shields.io/badge/Filament-ECCEAE?style=flat&logoColor=131842&label=" alt="Filament" />
 </div>
 
 
