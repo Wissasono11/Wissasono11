@@ -18,16 +18,16 @@
 ## 🧰 Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E68369?style=flat&logo=html5&logoColor=FBF6E2" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-ECCEAE?style=flat&logo=css3&logoColor=131842" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-FBF6E2?style=flat&logo=javascript&logoColor=131842" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-E68369?style=flat&logo=react&logoColor=FBF6E2" alt="React" />
-  <img src="https://img.shields.io/badge/PHP-ECCEAE?style=flat&logo=php&logoColor=131842" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-FBF6E2?style=flat&logo=laravel&logoColor=131842" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Bootstrap-E68369?style=flat&logo=bootstrap&logoColor=FBF6E2" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-ECCEAE?style=flat&logo=tailwindcss&logoColor=131842" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Figma-FBF6E2?style=flat&logo=figma&logoColor=131842" alt="Figma" />
-  <img src="https://img.shields.io/badge/Git-E68369?style=flat&logo=git&logoColor=FBF6E2" alt="Git" />
+  <img src="https://img.shields.io/badge/E68369?style=flat&logo=html5&logoColor=FBF6E2" alt="HTML5" />
+  <img src="https://img.shields.io/badge/ECCEAE?style=flat&logo=css3&logoColor=131842" alt="CSS3" />
+  <img src="https://img.shields.io/badge/FBF6E2?style=flat&logo=javascript&logoColor=131842" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/E68369?style=flat&logo=react&logoColor=FBF6E2" alt="React" />
+  <img src="https://img.shields.io/badge/ECCEAE?style=flat&logo=php&logoColor=131842" alt="PHP" />
+  <img src="https://img.shields.io/badge/FBF6E2?style=flat&logo=laravel&logoColor=131842" alt="Laravel" />
+  <img src="https://img.shields.io/badge/E68369?style=flat&logo=bootstrap&logoColor=FBF6E2" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/ECCEAE?style=flat&logo=tailwindcss&logoColor=131842" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/FBF6E2?style=flat&logo=figma&logoColor=131842" alt="Figma" />
+  <img src="https://img.shields.io/badge/E68369?style=flat&logo=git&logoColor=FBF6E2" alt="Git" />
 </div>
 
 
