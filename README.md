@@ -24,7 +24,6 @@
   <img src="https://img.shields.io/badge/React-E68369?style=flat&logo=react&logoColor=FBF6E2" alt="React" />
   <img src="https://img.shields.io/badge/PHP-ECCEAE?style=flat&logo=php&logoColor=131842" alt="PHP" />
   <img src="https://img.shields.io/badge/Laravel-FBF6E2?style=flat&logo=laravel&logoColor=131842" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Filament-FFAD00?style=flat&logoColor=white" alt="Filament" />
   <img src="https://img.shields.io/badge/Bootstrap-E68369?style=flat&logo=bootstrap&logoColor=FBF6E2" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-ECCEAE?style=flat&logo=tailwindcss&logoColor=131842" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Figma-FBF6E2?style=flat&logo=figma&logoColor=131842" alt="Figma" />
