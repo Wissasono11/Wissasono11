@@ -19,14 +19,16 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/-E68369?style=flat&logo=html5&logoColor=FBF6E2&label=" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-131842?style=flat&logo=python&logoColor=FBF6E2&label=" alt="Python" />
-  <img src="https://img.shields.io/badge/-ECCEAE?style=flat&logo=bootstrap&logoColor=131842&label=" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/-FBF6E2?style=flat&logo=css3&logoColor=131842&label=" alt="CSS3" />
-  <img src="https://img.shields.io/badge/-E68369?style=flat&logo=php&logoColor=FBF6E2&label=" alt="PHP" />
-  <img src="https://img.shields.io/badge/-131842?style=flat&logo=c%2B%2B&logoColor=FBF6E2&label=" alt="C++" />
+  <img src="https://img.shields.io/badge/-ECCEAE?style=flat&logo=css3&logoColor=131842&label=" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-FBF6E2?style=flat&logo=javascript&logoColor=131842&label=" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-E68369?style=flat&logo=react&logoColor=FBF6E2&label=" alt="React" />
+  <img src="https://img.shields.io/badge/-ECCEAE?style=flat&logo=php&logoColor=131842&label=" alt="PHP" />
+  <img src="https://img.shields.io/badge/-FBF6E2?style=flat&logo=laravel&logoColor=131842&label=" alt="Laravel" />
+  <img src="https://img.shields.io/badge/-E68369?style=flat&logo=bootstrap&logoColor=FBF6E2&label=" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/-ECCEAE?style=flat&logo=tailwindcss&logoColor=131842&label=" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/-FBF6E2?style=flat&logo=figma&logoColor=131842&label=" alt="Figma" />
   <img src="https://img.shields.io/badge/-E68369?style=flat&logo=git&logoColor=FBF6E2&label=" alt="Git" />
+  <img src="https://img.shields.io/badge/Filament-ECCEAE?style=flat&logoColor=131842&label=" alt="Filament" />
 </div>
 
 
