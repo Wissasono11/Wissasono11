@@ -18,17 +18,17 @@
 ## 🧰 Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-E68369?style=flat&logo=html5&logoColor=FBF6E2&label=" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-ECCEAE?style=flat&logo=css3&logoColor=131842&label=" alt="CSS3" />
-  <img src="https://img.shields.io/badge/-FBF6E2?style=flat&logo=javascript&logoColor=131842&label=" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-E68369?style=flat&logo=react&logoColor=FBF6E2&label=" alt="React" />
-  <img src="https://img.shields.io/badge/-ECCEAE?style=flat&logo=php&logoColor=131842&label=" alt="PHP" />
-  <img src="https://img.shields.io/badge/-FBF6E2?style=flat&logo=laravel&logoColor=131842&label=" alt="Laravel" />
-  <img src="https://img.shields.io/badge/-E68369?style=flat&logo=bootstrap&logoColor=FBF6E2&label=" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/-ECCEAE?style=flat&logo=tailwindcss&logoColor=131842&label=" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Filament-FBF6E2?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDgiIGhlaWdodD0iNDgiIHZpZXdCb3g9IjAgMCA0OCA0OCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTI0IDQ4QzM3LjI1NDggNDggNDggMzcuMjU0OCA0OCAyNEM0OCAxMC43NDUyIDM3LjI1NDggMCAyNCAwQzEwLjc0NTIgMCAwIDEwLjc0NTIgMCAyNEMwIDM3LjI1NDggMTAuNzQ1MiA0OCAyNCA0OFoiIGZpbGw9IiNGRkFEMDAiLz4KPHBhdGggZD0iTTI0IDM2QzMwLjYyNzQgMzYgMzYgMzAuNjI3NCAzNiAyNEMzNiAxNy4zNzI2IDMwLjYyNzQgMTIgMjQgMTJDMTcuMzcyNiAxMiAxMiAxNy4zNzI2IDEyIDI0QzEyIDMwLjYyNzQgMTcuMzcyNiAzNiAyNCAzNloiIGZpbGw9IndoaXRlIi8+Cjwvc3ZnPgo=&logoColor=131842" alt="Filament" />
-  <img src="https://img.shields.io/badge/-E68369?style=flat&logo=figma&logoColor=FBF6E2&label=" alt="Figma" />
-  <img src="https://img.shields.io/badge/-ECCEAE?style=flat&logo=git&logoColor=131842&label=" alt="Git" />
+  <img src="https://img.shields.io/badge/HTML5-E68369?style=flat&logo=html5&logoColor=FBF6E2" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-ECCEAE?style=flat&logo=css3&logoColor=131842" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-FBF6E2?style=flat&logo=javascript&logoColor=131842" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-E68369?style=flat&logo=react&logoColor=FBF6E2" alt="React" />
+  <img src="https://img.shields.io/badge/PHP-ECCEAE?style=flat&logo=php&logoColor=131842" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FBF6E2?style=flat&logo=laravel&logoColor=131842" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Filament-FFAD00?style=flat&logoColor=white" alt="Filament" />
+  <img src="https://img.shields.io/badge/Bootstrap-E68369?style=flat&logo=bootstrap&logoColor=FBF6E2" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-ECCEAE?style=flat&logo=tailwindcss&logoColor=131842" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Figma-FBF6E2?style=flat&logo=figma&logoColor=131842" alt="Figma" />
+  <img src="https://img.shields.io/badge/Git-E68369?style=flat&logo=git&logoColor=FBF6E2" alt="Git" />
 </div>
 
 
