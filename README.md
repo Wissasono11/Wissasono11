@@ -1,11 +1,11 @@
 <div align="center">
 
-# 🌿 Bayu Wissasono
+# 🌿 Bayu Wicaksono
 
 **Frontend Tinkerer & Informatics Student at UIN Sunan Kalijaga**  
 *Turning Figma frames into clean, snappy web interfaces with TypeScript, React, and modern backends.*
 
-Yogyakarta, Indonesia &nbsp;·&nbsp; [Email Me](bayu1171@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/bay-wicakson0/) &nbsp;·&nbsp;
+Yogyakarta, Indonesia &nbsp;·&nbsp; [Email Me](bayu1171@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/bay-wicakson0/) &nbsp;
 
 <br/>
 
