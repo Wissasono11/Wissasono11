@@ -92,7 +92,7 @@ No wall of 50 random badges. Just the tools I actually open and ship with:
 Have a cool frontend problem to solve, an open-source collaboration idea, or want to discuss AI-assisted developer workflows?
 
 - Drop me a line on [LinkedIn](https://www.linkedin.com/in/bay-wicakson0/)
-- Send an email to [your-email@gmail.com](bayu1171@gmail.com)
+- Send an email to [bayu1171@gmail.com](bayu1171@gmail.com)
 
 ---
 
