@@ -1,0 +1,20 @@
+name: Grow Git Bonsai
+
+on:
+  schedule:
+    # Runs daily at 03:00 UTC
+    - cron: '0 3 * * *'
+  workflow_dispatch: # Allows manual trigger from Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  grow:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Grow Bonsai Tree
+        uses: egorthinks/git-bonsai@v1
