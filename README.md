@@ -5,7 +5,7 @@
 **Frontend Tinkerer & Informatics Student at UIN Sunan Kalijaga**  
 *Turning Figma frames into clean, snappy web interfaces with TypeScript, React, and modern backends.*
 
-Yogyakarta, Indonesia &nbsp;·&nbsp; [Email Me](mailto:your-email@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/) &nbsp;·&nbsp; [Live Portfolio](https://your-portfolio.vercel.app)
+Yogyakarta, Indonesia &nbsp;·&nbsp; [Email Me](bayu1171@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/bay-wicakson0/) &nbsp;·&nbsp;
 
 <br/>
 
@@ -91,9 +91,8 @@ No wall of 50 random badges. Just the tools I actually open and ship with:
 
 Have a cool frontend problem to solve, an open-source collaboration idea, or want to discuss AI-assisted developer workflows?
 
-- Drop me a line on [LinkedIn](https://linkedin.com/in/)
-- Send an email to [your-email@gmail.com](mailto:your-email@gmail.com)
-- Check out my latest code repositories right below 👇
+- Drop me a line on [LinkedIn](https://www.linkedin.com/in/bay-wicakson0/)
+- Send an email to [your-email@gmail.com](bayu1171@gmail.com)
 
 ---
 
